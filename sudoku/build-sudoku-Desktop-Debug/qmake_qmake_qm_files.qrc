@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="sudoku_en_US.qm">/home/keith/source/git/Foothill-CS2C/sudoku/build-sudoku-Desktop-Debug/.qm/sudoku_en_US.qm</file>
+</qresource>
+</RCC>

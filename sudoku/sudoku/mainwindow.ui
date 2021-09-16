@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1212</width>
+    <height>1468</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>20</y>
+      <width>698</width>
+      <height>698</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>1060</width>
+      <height>16777215</height>
+     </size>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="3" column="9">
+      <widget class="QPlainTextEdit" name="text_8_3"/>
+     </item>
+     <item row="3" column="5">
+      <widget class="QPlainTextEdit" name="text_5_3"/>
+     </item>
+     <item row="5" column="4">
+      <widget class="QPlainTextEdit" name="text_4_4"/>
+     </item>
+     <item row="3" column="4">
+      <widget class="QTextEdit" name="text_4_3"/>
+     </item>
+     <item row="12" column="5">
+      <widget class="QPlainTextEdit" name="text_5_9"/>
+     </item>
+     <item row="7" column="8">
+      <widget class="QPlainTextEdit" name="text_7_6"/>
+     </item>
+     <item row="9" column="2">
+      <widget class="QPlainTextEdit" name="text_3_7"/>
+     </item>
+     <item row="11" column="9">
+      <widget class="QPlainTextEdit" name="text_8_8"/>
+     </item>
+     <item row="3" column="2">
+      <widget class="QPlainTextEdit" name="text_3_3"/>
+     </item>
+     <item row="12" column="1">
+      <widget class="QPlainTextEdit" name="text_2_9"/>
+     </item>
+     <item row="9" column="9">
+      <widget class="QPlainTextEdit" name="text_8_7"/>
+     </item>
+     <item row="7" column="9">
+      <widget class="QPlainTextEdit" name="text_8_6"/>
+     </item>
+     <item row="12" column="4">
+      <widget class="QPlainTextEdit" name="text_4_9"/>
+     </item>
+     <item row="9" column="1">
+      <widget class="QPlainTextEdit" name="text_2_7"/>
+     </item>
+     <item row="1" column="9">
+      <widget class="QPlainTextEdit" name="text_8_2"/>
+     </item>
+     <item row="3" column="6">
+      <widget class="QPlainTextEdit" name="text_6_3"/>
+     </item>
+     <item row="11" column="5">
+      <widget class="QPlainTextEdit" name="text_5_8"/>
+     </item>
+     <item row="1" column="6">
+      <widget class="QPlainTextEdit" name="text_6_2"/>
+     </item>
+     <item row="6" column="8">
+      <widget class="QPlainTextEdit" name="text_7_5"/>
+     </item>
+     <item row="0" column="8">
+      <widget class="QPlainTextEdit" name="text_7_1"/>
+     </item>
+     <item row="5" column="5">
+      <widget class="QPlainTextEdit" name="text_5_4"/>
+     </item>
+     <item row="1" column="8">
+      <widget class="QPlainTextEdit" name="text_7_2"/>
+     </item>
+     <item row="5" column="8">
+      <widget class="QPlainTextEdit" name="text_7_4"/>
+     </item>
+     <item row="7" column="6">
+      <widget class="QPlainTextEdit" name="text_6_6"/>
+     </item>
+     <item row="11" column="6">
+      <widget class="QPlainTextEdit" name="text_6_8"/>
+     </item>
+     <item row="9" column="6">
+      <widget class="QPlainTextEdit" name="text_6_7"/>
+     </item>
+     <item row="11" column="4">
+      <widget class="QPlainTextEdit" name="text_4_8"/>
+     </item>
+     <item row="5" column="9">
+      <widget class="QPlainTextEdit" name="text_8_4"/>
+     </item>
+     <item row="5" column="1">
+      <widget class="QPlainTextEdit" name="text_2_4"/>
+     </item>
+     <item row="11" column="1">
+      <widget class="QPlainTextEdit" name="text_2_8"/>
+     </item>
+     <item row="12" column="6">
+      <widget class="QPlainTextEdit" name="text_6_9"/>
+     </item>
+     <item row="9" column="8">
+      <widget class="QPlainTextEdit" name="text_7_7"/>
+     </item>
+     <item row="6" column="1">
+      <widget class="QPlainTextEdit" name="text_2_5"/>
+     </item>
+     <item row="3" column="0">
+      <widget class="QPlainTextEdit" name="text_1_3"/>
+     </item>
+     <item row="12" column="0">
+      <widget class="QPlainTextEdit" name="text_1_9"/>
+     </item>
+     <item row="9" column="4">
+      <widget class="QPlainTextEdit" name="text_4_7"/>
+     </item>
+     <item row="6" column="4">
+      <widget class="QPlainTextEdit" name="text_4_5"/>
+     </item>
+     <item row="7" column="0">
+      <widget class="QPlainTextEdit" name="text_1_6"/>
+     </item>
+     <item row="0" column="6">
+      <widget class="QPlainTextEdit" name="text_6_1"/>
+     </item>
+     <item row="9" column="5">
+      <widget class="QPlainTextEdit" name="text_5_7"/>
+     </item>
+     <item row="6" column="9">
+      <widget class="QPlainTextEdit" name="text_8_5"/>
+     </item>
+     <item row="3" column="1">
+      <widget class="QPlainTextEdit" name="text_2_3"/>
+     </item>
+     <item row="8" column="1">
+      <widget class="Line" name="line">
+       <property name="lineWidth">
+        <number>10</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+      </widget>
+     </item>
+     <item row="9" column="0">
+      <widget class="QPlainTextEdit" name="text_1_7"/>
+     </item>
+     <item row="12" column="9">
+      <widget class="QPlainTextEdit" name="text_8_9"/>
+     </item>
+     <item row="12" column="8">
+      <widget class="QPlainTextEdit" name="text_7_9"/>
+     </item>
+     <item row="7" column="5">
+      <widget class="QPlainTextEdit" name="text_5_6"/>
+     </item>
+     <item row="7" column="4">
+      <widget class="QPlainTextEdit" name="text_4_6"/>
+     </item>
+     <item row="5" column="6">
+      <widget class="QPlainTextEdit" name="text_6_4"/>
+     </item>
+     <item row="7" column="2">
+      <widget class="QPlainTextEdit" name="text_3_6"/>
+     </item>
+     <item row="11" column="8">
+      <widget class="QPlainTextEdit" name="text_7_8"/>
+     </item>
+     <item row="4" column="1">
+      <widget class="Line" name="line_2">
+       <property name="lineWidth">
+        <number>10</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="9">
+      <widget class="QPlainTextEdit" name="text_8_1"/>
+     </item>
+     <item row="0" column="5">
+      <widget class="QPlainTextEdit" name="text_5_1"/>
+     </item>
+     <item row="0" column="4">
+      <widget class="QPlainTextEdit" name="text_4_1"/>
+     </item>
+     <item row="7" column="1">
+      <widget class="QPlainTextEdit" name="text_2_6"/>
+     </item>
+     <item row="5" column="0">
+      <widget class="QPlainTextEdit" name="text_1_4"/>
+     </item>
+     <item row="1" column="1">
+      <widget class="QPlainTextEdit" name="text_2_2"/>
+     </item>
+     <item row="5" column="2">
+      <widget class="QPlainTextEdit" name="text_3_4"/>
+     </item>
+     <item row="6" column="0">
+      <widget class="QPlainTextEdit" name="text_1_5"/>
+     </item>
+     <item row="6" column="6">
+      <widget class="QPlainTextEdit" name="text_6_5"/>
+     </item>
+     <item row="12" column="2">
+      <widget class="QPlainTextEdit" name="text_3_9"/>
+     </item>
+     <item row="1" column="0">
+      <widget class="QPlainTextEdit" name="text_1_2"/>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPlainTextEdit" name="text_2_1"/>
+     </item>
+     <item row="1" column="7">
+      <widget class="Line" name="line_4">
+       <property name="lineWidth">
+        <number>10</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+      </widget>
+     </item>
+     <item row="6" column="5">
+      <widget class="QPlainTextEdit" name="text_5_5"/>
+     </item>
+     <item row="11" column="2">
+      <widget class="QPlainTextEdit" name="text_3_8"/>
+     </item>
+     <item row="0" column="0">
+      <widget class="QPlainTextEdit" name="text_1_1"/>
+     </item>
+     <item row="6" column="2">
+      <widget class="QPlainTextEdit" name="text_3_5"/>
+     </item>
+     <item row="11" column="0">
+      <widget class="QPlainTextEdit" name="text_1_8"/>
+     </item>
+     <item row="1" column="3">
+      <widget class="Line" name="line_3">
+       <property name="lineWidth">
+        <number>10</number>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPlainTextEdit" name="text_3_1"/>
+     </item>
+     <item row="3" column="8">
+      <widget class="QPlainTextEdit" name="text_7_3"/>
+     </item>
+     <item row="1" column="4">
+      <widget class="QPlainTextEdit" name="text_4_2"/>
+     </item>
+     <item row="1" column="5">
+      <widget class="QPlainTextEdit" name="text_5_2"/>
+     </item>
+     <item row="1" column="2">
+      <widget class="QPlainTextEdit" name="text_3_2"/>
+     </item>
+     <item row="0" column="10">
+      <widget class="QPlainTextEdit" name="text_9_1"/>
+     </item>
+     <item row="1" column="10">
+      <widget class="QPlainTextEdit" name="text_9_2"/>
+     </item>
+     <item row="3" column="10">
+      <widget class="QPlainTextEdit" name="text_9_3"/>
+     </item>
+     <item row="5" column="10">
+      <widget class="QPlainTextEdit" name="text_9_4"/>
+     </item>
+     <item row="6" column="10">
+      <widget class="QPlainTextEdit" name="text_9_5"/>
+     </item>
+     <item row="7" column="10">
+      <widget class="QPlainTextEdit" name="text_9_6"/>
+     </item>
+     <item row="9" column="10">
+      <widget class="QPlainTextEdit" name="text_9_7"/>
+     </item>
+     <item row="11" column="10">
+      <widget class="QPlainTextEdit" name="text_9_8"/>
+     </item>
+     <item row="12" column="10">
+      <widget class="QPlainTextEdit" name="text_9_9"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="button_submit">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>730</y>
+      <width>89</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Submit</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="button_solve">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>730</y>
+      <width>89</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Solve</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1212</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,15 @@
+﻿  manual_test.cpp
+C:\Users\kjones\source\repos\school\Foothill-CS2C\homework2\Homework02\log_n_vector.h(57,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\kjones\source\repos\school\Foothill-CS2C\homework2\Homework02\log_n_vector.h(56): message : while compiling class template member function 'T &LogNVector<T>::operator [](int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\kjones\source\repos\school\Foothill-CS2C\homework2\Homework02\manual_test.cpp(11): message : see reference to function template instantiation 'T &LogNVector<T>::operator [](int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\kjones\source\repos\school\Foothill-CS2C\homework2\Homework02\manual_test.cpp(10): message : see reference to class template instantiation 'LogNVector<int>' being compiled
+C:\Users\kjones\source\repos\school\Foothill-CS2C\homework2\Homework02\log_n_vector.h(58,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Homework02.vcxproj -> C:\Users\kjones\source\repos\school\Foothill-CS2C\homework2\Debug\Homework02.exe
